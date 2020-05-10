@@ -15,8 +15,9 @@ Thanks for checking out this front-end coding challenge.
 <p align="right">
 <SUB>[Mobile version]</SUB>
 </p>
-<img src="./design/mobile-design.jpg" alt= "mobile Preview" align = "left" width="30%">
 
+<img src="./design/mobile-design.jpg" 
+align="right" alt="mobile-preview"  width="30%">
 ## The challenge
 
 Your challenge is to build out this feature section and get it looking as close to the design as possible.
