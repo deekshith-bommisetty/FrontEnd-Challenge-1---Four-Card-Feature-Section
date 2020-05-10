@@ -17,7 +17,7 @@ Thanks for checking out this front-end coding challenge.
 <SUB>[Mobile version]</SUB>
 <br>
 </p>
-<img src="./design/mobile-design.jpg" alt=' mobile Preview" align = "right" width="30%">
+<img src="./design/mobile-design.jpg" alt=' mobile Preview" align = "left" width="30%">
 
 ## The challenge
 
