@@ -11,13 +11,11 @@ Thanks for checking out this front-end coding challenge.
 <img src="./design/desktop-preview.jpg" alt="Desktop Preview" width="100%">
 <p align="left">
 <SUB>[Desktop version]</SUB>
-<br>
 </p>
 <p align="right">
 <SUB>[Mobile version]</SUB>
-<br>
 </p>
-<img src="./design/mobile-design.jpg" alt=' mobile Preview" align = "left" width="30%">
+<img src="./design/mobile-design.jpg" alt= "mobile Preview" align = "left" width="30%">
 
 ## The challenge
 
