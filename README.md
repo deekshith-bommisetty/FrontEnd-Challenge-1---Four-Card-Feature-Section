@@ -6,7 +6,7 @@ Thanks for checking out this front-end coding challenge.
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
 
-**Four card feature section** is a static responsive website developed using 'HTML' and 'CSS'. It consists of positioning and styling four cards using grid layout. The challenge involves both desktop and mobile version and this site is based on Mobile First. I have tried to build it as closest to the design requirmenet provided in the challenge.
+**Four card feature section** is a static responsive website developed using 'HTML' and 'CSS'. It consists of positioning and styling four cards using grid layout. The challenge involves both desktop and mobile version and this site is based on Mobile First. This is my first challenge and I have tried to build it as closest to the design requirmenet provided in the challenge.
 
 <img src="./design/desktop-preview.jpg" alt="Desktop Preview" width="100%">
 <p align="left">
@@ -34,3 +34,6 @@ The designs are in JPG static format. This will mean that you'll need to use you
 You will find all the required assets in the `/images` folder. The assets are already optimized.
 
 There is also a `style-guide.md` file, which contains the information you'll need, such as color palette and fonts.
+## Hosted Link of the Project
+
+Please click here :  https://deekshith-bommisetty.github.io/FrontEnd-Challenge-1---Four-Card-Feature-Section/ 
