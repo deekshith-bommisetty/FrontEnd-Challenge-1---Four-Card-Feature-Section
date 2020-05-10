@@ -1,7 +1,5 @@
 # FrontEnd Challenge - Four Card Feature Section
 
-![Design preview for the Four card feature section coding challenge](./design/desktop-preview.jpg)
-
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
@@ -11,7 +9,15 @@ Thanks for checking out this front-end coding challenge.
 **Four card feature section** is a static responsive website developed using "HTML" and "CSS". It consists of positioning and styling four cards using grid layout. The challenge involves both desktop and mobile version and it is a site based on Mobile First. I have tried to build it as closest to the design requirmenet provided in the challenge.
 
 <img src="./design/desktop-preview.jpg" alt="Desktop Preview" width="100%">
-
+<p align="left">
+<SUB>[Desktop version]</SUB>
+<br>
+</p>
+<p align="right">
+<SUB>[Mobile version]</SUB>
+<br>
+</p>
+<img src="./design/mobile-design.jpg" alt=' mobile Preview" align = "right" width="30%">
 
 ## The challenge
 
